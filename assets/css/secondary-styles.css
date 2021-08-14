@@ -1,6 +1,6 @@
 /* SECONDARY PAGE STYLES */
 .hero {
-  background-position: bottom;
+  background-position: fixed;
   height: auto;
   text-align: center;
   margin-bottom: 40px;
