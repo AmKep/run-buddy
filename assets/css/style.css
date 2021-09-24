@@ -15,6 +15,10 @@ body {
   font-family: Helvetica, Arial, sans-serif;
 }
 
+heading{
+  font-weight: bold;
+}
+
 
 /* HEADER / NAV BAR STYLES START */
 
@@ -566,3 +570,4 @@ section {
     .contact-form {
       order: 3;
     }
+  }
