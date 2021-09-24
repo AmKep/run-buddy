@@ -12,4 +12,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by [Amy K]
 
-on September 2021
+on September 2022
